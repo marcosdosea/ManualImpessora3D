@@ -1,0 +1,72 @@
+{
+  "ID": "18d503a8-45fd-48f0-8f7a-f8b8b4db89ad",
+  "Name": "Workspace 2019-11-21 08_41_57.mcx",
+  "Children": [
+    {
+      "ID": "367ef0a6-e924-4068-a91e-91edebd1d9c6",
+      "Color": "#FE8D86",
+      "Depth": 10.0,
+      "Height": 2.0,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2.75,0.75,0.99999999999999289,1.0]",
+      "MeshPath": "E9536493B401C9F45630E2066353D19209AFA1A4.stl",
+      "Name": "Cube",
+      "TypeName": "CubeObject3D",
+      "Width": 10.0
+    },
+    {
+      "ID": "3717056a-adc7-4f8d-83c8-79b1a2f71e01",
+      "Color": "#FE8D86",
+      "Depth": 10.0,
+      "Height": 4.0,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,7.5,0.75,2.0,1.0]",
+      "MeshPath": "FD6BFA90AD7FB491DF58589B0EB429EBD18CDF5C.stl",
+      "Name": "Cube (1)",
+      "TypeName": "CubeObject3D",
+      "Width": 10.0
+    },
+    {
+      "ID": "23108245-c9e0-456c-aa88-2edc3928abd6",
+      "Color": "#FE8D86",
+      "Depth": 10.0,
+      "Height": 6.0,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,13.0,0.75,3.0,1.0]",
+      "MeshPath": "880D2A8DA1A16E63809A0D5AC286F347143A1EBD.stl",
+      "Name": "Cube (2)",
+      "TypeName": "CubeObject3D",
+      "Width": 10.0
+    },
+    {
+      "ID": "00eb73bc-3ea3-4081-a5d0-79db506eb2af",
+      "Color": "#FE8D86",
+      "Depth": 10.0,
+      "Height": 8.0,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,18.0,0.75,4.0,1.0]",
+      "MeshPath": "0103921478F0A7FD2FB5C7A79904D44B9C70E715.stl",
+      "Name": "Cube (3)",
+      "TypeName": "CubeObject3D",
+      "Width": 10.0
+    },
+    {
+      "ID": "822c71a5-2636-482d-9370-03d2a7b10828",
+      "Color": "#FE8D86",
+      "Depth": 10.0,
+      "Height": 10.0,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,23.0,0.75,5.0,1.0]",
+      "MeshPath": "04D92A1888DED20EDC92DD395B30323CB6457DD2.stl",
+      "Name": "Cube (4)",
+      "TypeName": "CubeObject3D",
+      "Width": 10.0
+    },
+    {
+      "ID": "a5be602d-45c2-4906-b62d-c6ef64c10af5",
+      "Color": "#FE8D86",
+      "Depth": 10.0,
+      "Height": 12.0,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,27.5,0.75,6.0,1.0]",
+      "MeshPath": "58F3B20E51110CFE35D686D6E3903CC39793655A.stl",
+      "Name": "Cube (5)",
+      "TypeName": "CubeObject3D",
+      "Width": 10.0
+    }
+  ]
+}

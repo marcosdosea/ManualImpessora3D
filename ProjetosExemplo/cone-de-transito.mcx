@@ -1,0 +1,35 @@
+{
+  "ID": "cafdb183-8f8d-4500-81bf-ac0c16b5bb78",
+  "Name": "Workspace 2019-11-17 22_51_50.mcx",
+  "Children": [
+    {
+      "ID": "68f3cb78-8f52-4c1c-a989-224b4a6f14fa",
+      "Name": "Selection",
+      "TypeName": "SelectionGroupObject3D",
+      "Children": [
+        {
+          "ID": "54967f2c-5e16-43ec-a380-e3c8e03c3d1c",
+          "Color": "#FE8D86",
+          "Depth": 19.0,
+          "Height": 2.0,
+          "Matrix": "[1.0374999999999999,0.0,0.0,0.0,0.0,1.0374999999999999,0.0,0.0,0.0,0.0,1.0,0.0,-0.62500000000000178,-2.1249999999999982,1.0,1.0]",
+          "MeshPath": "6DD822D07C1ECC70776B116D050A06DA25C9E30B.stl",
+          "Name": "Cube",
+          "TypeName": "CubeObject3D",
+          "Width": 19.0
+        },
+        {
+          "ID": "9dc2cdc1-6c58-4a21-959e-a2d8ab786fc0",
+          "Color": "#86FEA3",
+          "Diameter": 20.0,
+          "Height": 20.0,
+          "Matrix": "[0.9875,0.0,0.0,0.0,0.0,0.93750000000000011,0.0,0.0,0.0,0.0,1.0,0.0,-0.625,-1.6250000000000018,1.5,1.0]",
+          "MeshPath": "59D883B09FD3AD82115287628CAE7FB0097C5C07.stl",
+          "Name": "Cone",
+          "Sides": 40,
+          "TypeName": "ConeObject3D"
+        }
+      ]
+    }
+  ]
+}
