@@ -1,0 +1,36 @@
+{
+  "ID": "feea75e4-0435-400b-a9b2-3aae3a3280bc",
+  "Name": "Workspace 2019-11-28 02_37_46.mcx",
+  "Children": [
+    {
+      "ID": "c21a4d05-4595-4c1f-bd87-1a6742988ca6",
+      "Advanced": false,
+      "Color": "#FFAA00",
+      "Diameter": 180.0,
+      "EndingAngle": 360.0,
+      "LatitudeSides": 30,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,-7.0,-5.25,89.9990005493164,1.0]",
+      "MeshPath": "ED47676F553080AABE34A6C848F50F1FF5D7AF65.stl",
+      "Name": "Sphere (1)",
+      "OutputType": 1,
+      "Sides": 180,
+      "StartingAngle": 0.0,
+      "TypeName": "SphereObject3D"
+    },
+    {
+      "ID": "bc4b14db-b950-4509-9fad-7f78b1252e84",
+      "Advanced": false,
+      "Color": "#00AAFF",
+      "Diameter": 100.0,
+      "EndingAngle": 360.0,
+      "LatitudeSides": 30,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,-209.5,141.5,94.4990005493164,1.0]",
+      "MeshPath": "66CD2561FA1F72CD8389D16E65A94ADA4DB84D08.stl",
+      "Name": "Sphere (2)",
+      "OutputType": 1,
+      "Sides": 180,
+      "StartingAngle": 0.0,
+      "TypeName": "SphereObject3D"
+    }
+  ]
+}
