@@ -1,0 +1,51 @@
+{
+  "ID": "6ad99c89-11ba-4f83-abd1-d0d7cde9bcdf",
+  "Name": "",
+  "Children": [
+    {
+      "ID": "c89ccc2b-02e5-41f8-8c23-e6fec2181a9b",
+      "Advanced": false,
+      "Color": "#8A86FE",
+      "EndingAngle": 360.0,
+      "Height": 10.0,
+      "InnerDiameter": 35.0,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,15.0,1.0]",
+      "MeshPath": "42EEACF5DC84E675E63ABE93B1FE21728CAAD551.stl",
+      "Name": "Ring",
+      "OuterDiameter": 40.0,
+      "Sides": 100,
+      "StartingAngle": 0.0,
+      "TypeName": "RingObject3D"
+    },
+    {
+      "ID": "b2a89165-f27e-4e63-bfa8-e65228857470",
+      "Advanced": false,
+      "Color": "#B0FE86",
+      "Diameter": 37.0,
+      "DiameterTop": 20.0,
+      "EndingAngle": 360.0,
+      "Height": 20.0,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.5,0.5,10.000000000000007,1.0]",
+      "MeshPath": "FF28BA487357D699F272C74CA649031C82B7D885.stl",
+      "Name": "Cylinder",
+      "Sides": 40,
+      "StartingAngle": 0.0,
+      "TypeName": "CylinderObject3D"
+    },
+    {
+      "ID": "2bb0fc9c-83d6-48ad-a16e-d39ae678bcfe",
+      "Advanced": false,
+      "Color": "#8A86FE",
+      "EndingAngle": 360.0,
+      "Height": 10.0,
+      "InnerDiameter": 35.0,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.9999999999999858,1.0]",
+      "MeshPath": "42EEACF5DC84E675E63ABE93B1FE21728CAAD551.stl",
+      "Name": "Ring (1)",
+      "OuterDiameter": 40.0,
+      "Sides": 100,
+      "StartingAngle": 0.0,
+      "TypeName": "RingObject3D"
+    }
+  ]
+}

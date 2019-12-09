@@ -1,0 +1,37 @@
+{
+  "ID": "5fae2d43-6e22-466a-bdbf-99ed50215a1f",
+  "Name": "Workspace 2019-12-07 23_14_29.mcx",
+  "Children": [
+    {
+      "ID": "9a5722fc-03d2-4cbc-92be-1084b1b2af87",
+      "Advanced": false,
+      "Color": "#86CAFE",
+      "EndingAngle": 360.0,
+      "InnerDiameter": 20.0,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,4.995999813079834,1.0]",
+      "MeshPath": "3FB0E10CDF872DC98C8B5BE812D4348CA1DAFB64.stl",
+      "Name": "Torus",
+      "OuterDiameter": 40.0,
+      "RingPhaseAngle": 0,
+      "RingSides": 15,
+      "Sides": 180,
+      "StartingAngle": 0.0,
+      "TypeName": "TorusObject3D"
+    },
+    {
+      "ID": "8febb882-e2e7-4a77-9ae6-0359f454ed4a",
+      "Advanced": false,
+      "Color": "#B0FE86",
+      "Diameter": 25.0,
+      "DiameterTop": 20.0,
+      "EndingAngle": 360.0,
+      "Height": 20.0,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.5,1.5,10.0,1.0]",
+      "MeshPath": "603F100443E583C7076D7A5CDAB3F8CC480C8945.stl",
+      "Name": "Cylinder",
+      "Sides": 40,
+      "StartingAngle": 0.0,
+      "TypeName": "CylinderObject3D"
+    }
+  ]
+}
