@@ -1,15 +1,26 @@
-1 - Interface padrão e comandos básicos no MatterControl - feito!
-2 - Como criar um texto no MatterControl - feito!
-3 - Como criar uma pirâmide no MatterControl - feito!
-4 - Como criar um cubo no Matter Control - feito!
-5 - Como criar um anel no MatterControl - feito!
+VÍDEOS NÃO PRONTOS!
+
+3 - Como criar uma pirâmide no MatterControL
 6 - Como criar um cilindro no MatterControl
 7 - Como criar um cone no MatterControl
-8 - Como criar um retângulo no MatterControl - feito!
-9 - Como criar um torus no MatterControl - feito!
 10 - Como criar uma esfera no MatterControl
-11 - Como instalar o MatterControl no Windows 10 - feito!
-12 - O que é a ferramenta MatterControl? - feito!
 13 - Como criar um projeto a partir de uma imagem no MatterControl
 14 - Como baixar projetos do site MyMiniFactory e utilizá-los no MatterControl
 15 - Como salvar um projeto no MatterControl
+
+VÍDEOS PRONTOS!
+
+1 - Interface padrão e comandos básicos no MatterControl - feito!
+2 - Como criar um texto no MatterControl - feito!
+4 - Como criar um cubo no Matter Control - feito!
+5 - Como criar um anel no MatterControl - feito!
+8 - Como criar um retângulo no MatterControl - feito!
+9 - Como criar um torus no MatterControl - feito!
+11 - Como instalar o MatterControl no Windows 10 - feito!
+12 - O que é a ferramenta MatterControl? - feito!
+
+VÍDEOS QUE PODEM SER CORRIGIDOS HOJE!
+
+3 - Como criar uma pirâmide no MatterControL
+4 - Como criar um cubo no Matter Control
+7 - Como criar um cone no MatterControl
