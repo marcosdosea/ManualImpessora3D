@@ -1,0 +1,17 @@
+{
+  "ID": "fd4880c1-e193-4eb4-b18a-699b7370f266",
+  "Name": "Workspace 2020-02-20 15_01_32.mcx",
+  "Children": [
+    {
+      "ID": "0e43ceeb-8182-48f2-8d73-af8ce47216c7",
+      "Color": "#FE8D86",
+      "Depth": 5.0,
+      "Height": 5.0,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,-0.5,-0.5,2.5,1.0]",
+      "MeshPath": "FC70639F5F0A5BFDE59A898BF0873EDE05922C64.stl",
+      "Name": "Cube",
+      "TypeName": "CubeObject3D",
+      "Width": 5.0
+    }
+  ]
+}
