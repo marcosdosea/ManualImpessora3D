@@ -1,0 +1,20 @@
+{
+  "ID": "a576800a-facb-4619-9f46-edce7d3d22b4",
+  "Name": "Workspace 2020-02-20 15_35_46.mcx",
+  "Children": [
+    {
+      "ID": "91432939-72a3-4e7f-83cc-91bc793a71e9",
+      "Advanced": false,
+      "Color": "#D186FE",
+      "Diameter": 50.0,
+      "EndingAngle": 360.0,
+      "LatitudeSides": 30,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,24.999000549316413,1.0]",
+      "MeshPath": "BAF3E3E70428B38CFC7FD1F92045E731E90C857B.stl",
+      "Name": "Sphere",
+      "Sides": 40,
+      "StartingAngle": 0.0,
+      "TypeName": "SphereObject3D"
+    }
+  ]
+}
